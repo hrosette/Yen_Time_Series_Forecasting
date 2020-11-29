@@ -4,8 +4,7 @@ For this project, I used time series forecasting and linear regression modeling 
 
 ## Time-Series Forecasting
 
-In this notebook, you will load historical Dollar-Yen exchange rate futures data and apply time series analysis and modeling to determine whether there is any predictable behavior.
-Follow the steps outlined in the time-series starter notebook to complete the following:
+In the time_series_analysis notebook, I loaded historical Dollar-Yen exchange rate futures data and applied time series analysis and modeling to determine whether there is any predictable behavior.
 
 Decomposition using a Hodrick-Prescott Filter (Decompose the Settle price into trend and noise).
 Forecasting Returns using an ARMA Model.

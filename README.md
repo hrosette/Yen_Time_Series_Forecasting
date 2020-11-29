@@ -25,7 +25,7 @@ The ARIMA model forecast shows that the Japanese Yen will increase at a linear r
 
 The Garch model seemed to be good fit for predicting volatility because most of the p-values are below .05.
 
-## Conclusions
+### Conclusions
 
 * Based on my time series analysis, I would buy the yen when the settle price is below the trend line.
 * The risk of the yen is expected to increase within the next five days.
